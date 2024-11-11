@@ -6,8 +6,8 @@ Media queries in CSS3 extended the CSS2 media types idea: Instead of looking for
 
 Media queries can be used to check many things, such as:
 
-1.width and height of the viewport
-2.orientation of the viewport (landscape or portrait)
-3.resolution
+1.Width and height of the viewport
+2.Orientation of the viewport (landscape or portrait)
+3.Resolution
 
 Using media queries are a popular technique for delivering a tailored style sheet to desktops, laptops, tablets, and mobile phones (such as iPhone and Android phones).
